@@ -6,3 +6,6 @@ E:\Study\stz\proj\Proj\Proj\obj\Debug\netcoreapp2.0\Proj.csprojResolveAssemblyRe
 E:\Study\stz\proj\Proj\Proj\obj\Debug\netcoreapp2.0\Proj.csproj.CoreCompileInputs.cache
 E:\Study\stz\proj\Proj\Proj\obj\Debug\netcoreapp2.0\Proj.AssemblyInfoInputs.cache
 E:\Study\stz\proj\Proj\Proj\obj\Debug\netcoreapp2.0\Proj.AssemblyInfo.cs
+E:\Study\stz\proj\Proj\Proj\bin\Debug\netcoreapp2.0\Proj.pdb
+E:\Study\stz\proj\Proj\Proj\obj\Debug\netcoreapp2.0\Proj.dll
+E:\Study\stz\proj\Proj\Proj\obj\Debug\netcoreapp2.0\Proj.pdb
